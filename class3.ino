@@ -75,7 +75,7 @@ item1= ‘사과’
 price1= 1000
 item2= ‘바나나’
 price2= 500
-print(item1, price, sep=’ , ’, end=’\’)
+print(item1, price1, sep=' , ', end='\')
 print(item2, price2)
 
 # 파이썬(Python) print 함수 사용법 혼합 - (4)
